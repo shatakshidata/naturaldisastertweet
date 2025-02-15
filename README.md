@@ -62,4 +62,10 @@ This project explores **multiple NLP approaches**, including:
 - **DistilBERT provided a great balance of speed & accuracy**.
 - **Traditional models (TF-IDF + Logistic Regression) performed decently but lacked contextual understanding**.
 
+## Future Improvements
+Data Augmentation (Synonym Replacement, Back-Translation)
+Stacking multiple Transformer models (BERTweet + DistilBERT)
+Adversarial training to handle out-of-distribution tweets
 
+## Contributors
+Nikhita Shankar
